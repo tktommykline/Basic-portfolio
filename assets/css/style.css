@@ -1,11 +1,26 @@
 header{
     float: left;
     background-color: aqua;
-
+    width: 100%;
 }
 
 .page-buttons{
     background-color: blue;
+}
+
+h1{
+    width: 100%;
+    margin: 5px;
+}
+
+.img{
+    float: left;
+    margin: 10px;
+    border: solid black;
+}
+
+p{
+margin: 8px;
 }
 
 a.button{
